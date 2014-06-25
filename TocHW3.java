@@ -10,7 +10,7 @@ import org.json.*;
 import java.util.regex.*;
 
 
-public class TocHW33
+public class TocHw3
 {
 	public static void main(String[] args) throws IOException, JSONException
 	{
